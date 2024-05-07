@@ -20,20 +20,20 @@
   },
   "homepage": "https://github.com/KenPowers/gulp-cheerio",
   "devDependencies": {
-    "chai": "~1.8.1",
-    "cheerio": "0.*",
-    "coveralls": "^2.11.2",
-    "gulp": "^3.8.10",
-    "gulp-spawn-mocha": "^2.0.0",
+    "chai": "~5.1.0",
+    "cheerio": "*",
+    "coveralls": "^3.1.1",
+    "gulp": "^5.0.0",
+    "gulp-spawn-mocha": "^6.0.0",
     "istanbul": "^0.3.5",
-    "mocha": "^2.1.0",
-    "sinon": "~1.7.3",
-    "sinon-chai": "~2.4.0",
-    "vinyl": "^2.1.0"
+    "mocha": "^10.4.0",
+    "sinon": "~17.0.2",
+    "sinon-chai": "~3.7.0",
+    "vinyl": "^3.0.0"
   },
   "dependencies": {
     "cheerio": "0.*",
-    "plugin-error": "^0.1.2",
-    "through2": "^0.6.3"
+    "plugin-error": "^2.0.1",
+    "through2": "^4.0.2"
   }
 }
